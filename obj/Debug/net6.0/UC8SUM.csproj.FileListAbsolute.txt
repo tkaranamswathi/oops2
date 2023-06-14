@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC8SUM\bin\Debug\net6.0\UC8SUM.exe
+C:\Users\swath\source\repos\UC8SUM\bin\Debug\net6.0\UC8SUM.deps.json
+C:\Users\swath\source\repos\UC8SUM\bin\Debug\net6.0\UC8SUM.runtimeconfig.json
+C:\Users\swath\source\repos\UC8SUM\bin\Debug\net6.0\UC8SUM.dll
+C:\Users\swath\source\repos\UC8SUM\bin\Debug\net6.0\UC8SUM.pdb
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\UC8SUM.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\UC8SUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\UC8SUM.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\UC8SUM.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\UC8SUM.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\UC8SUM.dll
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\refint\UC8SUM.dll
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\UC8SUM.pdb
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\UC8SUM.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC8SUM\obj\Debug\net6.0\ref\UC8SUM.dll
