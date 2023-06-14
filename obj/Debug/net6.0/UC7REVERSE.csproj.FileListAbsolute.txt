@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC7REVERSE\bin\Debug\net6.0\UC7REVERSE.exe
+C:\Users\swath\source\repos\UC7REVERSE\bin\Debug\net6.0\UC7REVERSE.deps.json
+C:\Users\swath\source\repos\UC7REVERSE\bin\Debug\net6.0\UC7REVERSE.runtimeconfig.json
+C:\Users\swath\source\repos\UC7REVERSE\bin\Debug\net6.0\UC7REVERSE.dll
+C:\Users\swath\source\repos\UC7REVERSE\bin\Debug\net6.0\UC7REVERSE.pdb
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\UC7REVERSE.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\UC7REVERSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\UC7REVERSE.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\UC7REVERSE.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\UC7REVERSE.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\UC7REVERSE.dll
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\refint\UC7REVERSE.dll
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\UC7REVERSE.pdb
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\UC7REVERSE.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC7REVERSE\obj\Debug\net6.0\ref\UC7REVERSE.dll
