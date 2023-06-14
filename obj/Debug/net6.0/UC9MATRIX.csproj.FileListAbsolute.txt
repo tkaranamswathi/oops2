@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC9MATRIX\bin\Debug\net6.0\UC9MATRIX.exe
+C:\Users\swath\source\repos\UC9MATRIX\bin\Debug\net6.0\UC9MATRIX.deps.json
+C:\Users\swath\source\repos\UC9MATRIX\bin\Debug\net6.0\UC9MATRIX.runtimeconfig.json
+C:\Users\swath\source\repos\UC9MATRIX\bin\Debug\net6.0\UC9MATRIX.dll
+C:\Users\swath\source\repos\UC9MATRIX\bin\Debug\net6.0\UC9MATRIX.pdb
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\UC9MATRIX.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\UC9MATRIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\UC9MATRIX.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\UC9MATRIX.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\UC9MATRIX.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\UC9MATRIX.dll
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\refint\UC9MATRIX.dll
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\UC9MATRIX.pdb
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\UC9MATRIX.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC9MATRIX\obj\Debug\net6.0\ref\UC9MATRIX.dll
